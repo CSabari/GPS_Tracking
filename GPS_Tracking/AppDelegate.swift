@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  GPS_Tracking
 //
-//  Created by TRESELLE on 14/03/18.
+//  Created by SABARI on 14/03/18.
 //  Copyright © 2018 com.ios.sabari. All rights reserved.
 //
 
